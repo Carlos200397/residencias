@@ -212,4 +212,5 @@ public function getPerfilIdLink()
     return Html::a($this->id, $url, $opciones);
 
 }
+
 }
